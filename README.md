@@ -1,2 +1,1 @@
-# Student0707
-Student Management
+This is instruction file
